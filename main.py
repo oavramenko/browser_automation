@@ -12,11 +12,7 @@ urls = ["https://www.github.com/", "https://www.aswf.io", "https://roadmap.sh/ro
 dev_resources = ["https://free-for.dev/#/"]
 devs_100_main = ["https://communitytaught.org/dashboard","https://www.twitch.tv/learnwithleon", "https://communitytaught.org/class/all","https://100devs-info.netlify.app/#nine",]
 devs_100_resources = ["https://www.typingtest.com/benchmark.html","https://www.keybr.com", "https://learn.shayhowe.com/html-css/", "https://www.coursera.org/learn/learning-how-to-learn", ]
-# typing speed 5min  test, medium 
-# 21.09.2023 45wpm, 0% typos
-# 23.09.2023 41wpm, 0% typos
-# 24.09.2023 46wpm, 0% typos
-# 27.09.2023 36wpm, 0% typos
+
 organisation = ["https://calendar.google.com/calendar/u/0/r/week", 'email']
 job_search_vfx = ["https://www.rodeofx.com/culture-and-talent", "https://framestore.recruitee.com", "https://www.imageworks.com/job-postings", "https://www.dneg.com/careers/open-positions/", "https://www.scanlinevfx.com/careers/"  ]
 
@@ -28,7 +24,7 @@ python_resources = ["https://pythontutor.com/visualize.html#mode=edit","https://
 shotgrid_dev_resources = ["https://developer.shotgridsoftware.com/1e047003/?title=Developer+Overview", "https://community.shotgridsoftware.com", "https://github.com/shotgunsoftware/python-api"]
 houdini_resources = ["https://www.sidefx.com/learn-main-menu/start-here/"]
 
-frech = ["https://usito.usherbrooke.ca", ]
+french = ["https://usito.usherbrooke.ca", ]
 # opens second tab
 #browser.execute_script("window.open('about:blank','secondtab');")
 #browser.switch_to.window("secondtab")
